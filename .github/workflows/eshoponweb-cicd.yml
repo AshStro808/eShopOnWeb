@@ -8,6 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-westeurope
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
+devops-webapp-westeurope-$RANDOM$RANDOM
+devops-webapp-westeurope-584330751
 808b5529-6d21-42cc-94c6-5c0e601e9f89
   WEBAPP-NAME: echo devops-webapp-westeurope-$RANDOM$RANDOM
 devops-webapp-westeurope-584330751
